@@ -2,7 +2,7 @@
 This is my first individual react app using react components. This app will be entirely from scratch as will be used to show my capabilities as a web developer. 
 
 ## What I Will Use
-In this project, I will use Nodejs, React, mySQL, Javascript, HTML and CSS as my basic coding lanuguages as well as a couple other various dependencies such as bcrypt.
+In this project, I will use Nodejs, React, mySQL as well as Javascript, HTML and CSS as my basic coding lanuguages. I will also use a couple other various dependencies such as bcrypt.
 
 ## Purpose
 The purpose of this project is to show not only that I am able to create visually appealing websites, but also to show that I am able to put functionality behind those websites in order to make a beautiful and highly functional website for any company I work for.
