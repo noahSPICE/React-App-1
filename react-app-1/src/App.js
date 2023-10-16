@@ -1,20 +1,23 @@
 import logo from "./logo.png";
 import "./App.css";
+import Item from "./myItem";
+import Paragraph from "./myParagraph";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>DO YOU WANT TO JOIN MY CREW?!</p>
+        <Item />
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          LEARN REACT
+          CLICK TO JOIN CREW
         </a>
+        <Paragraph />
       </header>
     </div>
   );
